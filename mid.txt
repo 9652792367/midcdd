@@ -1,0 +1,5 @@
+git hub
+git commit
+git clone
+git bash 
+git init
